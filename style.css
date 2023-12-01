@@ -40,6 +40,10 @@ article div {
   width: 100%;
 }
 
+footer {
+  text-align: center;
+}
+
 p {
   line-height: 1.5;
   text-align: left;
@@ -64,10 +68,6 @@ img {
 
 hr {
   border: 1px solid black;
-}
-
-footer {
-  text-align: center;
 }
 
 /* Add your solution below */
